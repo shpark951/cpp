@@ -14,5 +14,4 @@ x--;
  cout << --x << endl;
  cout << x-- << endl;
  cout << x << endl; 
- return 0; 
- }
+ return 0; }
